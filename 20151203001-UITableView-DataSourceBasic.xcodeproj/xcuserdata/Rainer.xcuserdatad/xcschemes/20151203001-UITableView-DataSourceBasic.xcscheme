@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0710"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D5E59CA11C103D0E0081E963"
+               BuildableName = "20151203001-UITableView-DataSourceBasic.app"
+               BlueprintName = "20151203001-UITableView-DataSourceBasic"
+               ReferencedContainer = "container:20151203001-UITableView-DataSourceBasic.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D5E59CBA1C103D370081E963"
+               BuildableName = "20151203001-UITableView-DataSourceBasicTests.xctest"
+               BlueprintName = "20151203001-UITableView-DataSourceBasicTests"
+               ReferencedContainer = "container:20151203001-UITableView-DataSourceBasic.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D5E59CC51C103D390081E963"
+               BuildableName = "20151203001-UITableView-DataSourceBasicUITests.xctest"
+               BlueprintName = "20151203001-UITableView-DataSourceBasicUITests"
+               ReferencedContainer = "container:20151203001-UITableView-DataSourceBasic.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D5E59CA11C103D0E0081E963"
+            BuildableName = "20151203001-UITableView-DataSourceBasic.app"
+            BlueprintName = "20151203001-UITableView-DataSourceBasic"
+            ReferencedContainer = "container:20151203001-UITableView-DataSourceBasic.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D5E59CA11C103D0E0081E963"
+            BuildableName = "20151203001-UITableView-DataSourceBasic.app"
+            BlueprintName = "20151203001-UITableView-DataSourceBasic"
+            ReferencedContainer = "container:20151203001-UITableView-DataSourceBasic.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D5E59CA11C103D0E0081E963"
+            BuildableName = "20151203001-UITableView-DataSourceBasic.app"
+            BlueprintName = "20151203001-UITableView-DataSourceBasic"
+            ReferencedContainer = "container:20151203001-UITableView-DataSourceBasic.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
